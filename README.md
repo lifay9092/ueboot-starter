@@ -1,6 +1,6 @@
 # 快速使用
 - 前提条件，需要有Mysql数据库、Redis服务、JDK1.8
-- 代码checkout后，使用IDEA导入，或者Eclipse都可以,当前项目采用maven构建
+- 代码checkout后，使用IDEA导入，或者Eclipse都可以,当前项目采用maven构建（http://maven.xiqiao.io/content/groups/public/）
 - 修改backend工程当中的src/main/resources/application.yml 数据库配置文件和reids配置文件
 - 导入项目中的sql目录下的ueboot-shiro.sql文件到指定的数据库
 - backend后台管理系统启动方式
